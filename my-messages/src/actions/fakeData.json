@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  },
+  {
+    "firstName": "firstName",
+    "lastName": "lastName",
+    "email": "email@example.com",
+    "company": "Some Company Inc.",
+    "message": "This is the email body and where the main message will go",
+    "read": false
+  }
+]

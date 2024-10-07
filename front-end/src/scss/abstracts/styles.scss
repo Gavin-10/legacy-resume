@@ -1,0 +1,20 @@
+:root {
+  --bs-body-bg: #343a40;
+}
+
+.darker {
+  color: white;
+  transition: color 0.25s ease;
+}
+
+.darker:hover {
+  color: #212529;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+.test {
+  border: red;
+}
